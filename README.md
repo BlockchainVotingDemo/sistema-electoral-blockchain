@@ -1,6 +1,9 @@
 # sistema-electoral-blockchain
 Video en el que se presenta el funcionamiento de una prueba de concepto para evaluar la tecnología Blockchain en contextos electorales. 
 
+## Configurar entorno de trabajo y despliegue de la página web
+Para poder configurar la Blockchain y desplegar la página web, de manera local, siga el manual en pdf llamado Manual de usuario que se encuentra en la raíz de este repositorio
+
 ## Instrucciones de visualización
 Para poder visualizar el video correctamente, siga los siguientes pasos:
 
