@@ -1,3 +1,6 @@
+## Configurar entorno de trabajo y despliegue de la página web
+Para hacer uso de este proyecto, revise el Manual de usuario que se pone a disposición en la raíz de este repositorio.
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
